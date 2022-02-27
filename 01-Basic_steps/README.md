@@ -4,18 +4,20 @@ O desenho abaixo, demonstra os três passos principais da comunicação Cliente(
 
 ![flow](../img/03-flow_api.png)
 
+Visualizando os itens das bolinhas vermelhas:
+
 1. O cliente(uma página web) faz uma **requisição(req)** 
 
 2. Através do **protocolo http** e encaminha para a **api(nosso serviço)**.
 
 3. Nosso serviço processa a **requisição** e devolve uma **resposta(resp)** através do protocolo http, geralmente o padrão é **JSON**(um formato padrão de objeto).
 
-O passo seguinte é o client recebendo essa resposta e disponibilizando para o usuário.
+O passo seguinte é o cliente recebendo essa resposta e disponibilizando para o usuário.
 
 Esses conceitos são a base para entendermos como funciona a web e como nossos serviços irão interagir.
 
 ## O que faremos
-Vamos desenvolver uma API RestFul que irá responder a um client sobre a cotação de criptomoedas específicas.
+Vamos desenvolver uma API RestFul que irá responder a um cliente sobre a cotação de criptomoedas específicas.
 Portanto:
 - Iremos simular um cliente
 - Utilizaremos o Protocolo HTTP
