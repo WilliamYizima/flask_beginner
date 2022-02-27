@@ -2,7 +2,7 @@
 
 ## Motivação
 
-**Este é um repositório para ajudar quem está começando com o backend e quer aprender um pouco de Flask**
+**Este é um repositório para ajudar quem está começando com o backend de forma mais simples para mergulhar nesse mundo bem mágico(e quem quiser se aventurar com flask-python)**
 
 ## Temas Abordados
 1. [Esquema do que será abordado](./01-Basic_steps/README.md)
