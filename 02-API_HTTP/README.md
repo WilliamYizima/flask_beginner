@@ -71,6 +71,7 @@ Conseguimos fazer uma *request do method GET na api do Mercado Bitcoin*, organiz
     }
   ```
 Para fazer o teste, cole em seu navegador a seguinte url: https://www.mercadobitcoin.net/api/BTC/day-summary/2022/2/20/
+
 Veja que irá mostrar somente um json como resposta.
 
 
